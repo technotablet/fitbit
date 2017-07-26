@@ -1,5 +1,5 @@
 ## What is Fitbit Intraday Heart Rate Data?
-Fitbit Trackers which have Heart Rate sensors in them capture the Heart Rate every few seconds. However, Fitbit's App provides the Heart Rate information in 5-minute intervals.
+Fitbit Trackers which have Heart Rate sensors in them capture the [Heart Rate **continuously**](https://help.fitbit.com/articles/en_US/Help_article/1565#How). However, Fitbit's App provides the Heart Rate information in 5-minute intervals.
 
 This code allows you to download the detailed data from Fitbit's website and either see it on a chart, or download it in an Excel.
 
