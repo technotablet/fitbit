@@ -17,7 +17,7 @@ if (!isset($_GET['hash'])) {
 </body>
 </html>
 
-<?
+<?php
 } else {
 
 	// Step 2 - Now the data is in query string. Initialize Session and process it
